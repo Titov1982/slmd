@@ -1,0 +1,9 @@
+out_file_path = "/tmp/slmd.out"
+err_file_path = "/tmp/slmd.err"
+data_file_path = "/tmp/slmd.dat"
+working_dir = "/tmp"
+root_dir = "/"
+user_name = "root"
+group_name = "wheel"
+tick_count = 3600
+tick_rate = 1000
